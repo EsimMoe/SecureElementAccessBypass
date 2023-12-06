@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Element Access Bypass</string>
+    <string name="xposed_desc">绕过 SE ARA &amp; ARF 限制, 并授予完全访问权限</string>
+    <string name="about_module">此模块使用 YukiHookAPI 构建。\n了解更多 https://github.com/HighCapable/YuKiHookAPI</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secure Element Access Bypass</string>
+    <string name="xposed_desc">Bypass SE ARA &amp; ARF restrictions and grant FullAccess</string>
+    <string name="about_module">This module is made by YukiHookAPI. \nLearn more https://github.com/HighCapable/YuKiHookAPI</string>
+</resources>
